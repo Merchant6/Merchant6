@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saboor Merchant</h1>
 <h3 align="center">A passionate backend developer from Pakistan</h3>
 <br>
-![](https://gifdb.com/images/file/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif)
+![Linux Terminal](https://gifdb.com/images/file/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif)
 <br>
 - 👷 I’m currently a developer at [Adz Eye.](https://www.adzeye.com/)
 
@@ -9,7 +9,7 @@
 
 - 💻 I’m currently developing web apps on **PHP/Laravel.**
 
-- 🔭 I’m interested in **Linux, Cybersecurity, Web3,and Networking.**
+- 🔭 I’m interested in **Linux, Cybersecurity, Web3, and Networking.**
 
 - 📫 How to reach me **saboormerchant6@gmail.com**
 
