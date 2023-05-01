@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Saboor Merchant</h1>
 <h3 align="center">A passionate backend developer from Pakistan</h3>
-<br>
-![Linux Terminal](https://gifdb.com/images/file/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif)
-<br>
+
+![Coder](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)
+
+
 - 👷 I’m currently a developer at [Adz Eye.](https://www.adzeye.com/)
 
 - 🌱 I’m currently learning **Linux Administration.**
