@@ -7,7 +7,7 @@
 ![Coder](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)
 <br><br>
 
-👷 I’m currently a developer at [Codesign Services.](https://codesignservices.com/)
+👷 I’m currently a developer at [Codesign LLC.](https://codesignservices.com/)
 
 🌱 I’m currently learning **Linux Administration.**
 
