@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1 align="center">Hi 👋, I'm Saboor Merchant</h1>
-<h3 align="center">A passionate backend developer from Pakistan</h3>
+<h3 align="center">A passionate Backend developer</h3>
 <br>
 
 ![Coder](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)
