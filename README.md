@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 align="center">Hi 👋, I'm Saboor Merchant</h1>
+<h1 align="center">Hi 👋, I'm Abdus Saboor</h1>
 <h3 align="center">A passionate Backend developer</h3>
 <br>
 
