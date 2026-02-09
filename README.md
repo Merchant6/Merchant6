@@ -7,13 +7,13 @@
 ![Coder](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)
 <br><br>
 
-👷 I’m currently a developer at [Codesign LLC.](https://codesignservices.com/)
+👷 I’m currently a developer at [Haksec Pty Ltd.](http://haksec.io/)
 
-🌱 I’m currently learning **Linux Administration.**
+🌱 I’m currently learning **GO.**
 
-💻 I’m currently developing web apps on **PHP/Laravel.**
+💻 I’m currently developing web apps on **PHP & Laravel.**
 
-🔭 I’m interested in **Linux, Cybersecurity, Web3, and Networking.**
+🔭 I’m interested in **Linux, Cybersecurity, and Networking.**
 
 📫 How to reach me **saboormerchant6@gmail.com** 
 <br><br>
