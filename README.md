@@ -1,52 +1,98 @@
 <div align="center">
 
-<h1 align="center">Hi 👋, I'm Abdus Saboor</h1>
-<h3 align="center">A passionate Backend developer</h3>
-<br>
+# Abdus Saboor
 
-![Coder](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)
-<br><br>
+### Backend / Full-Stack Engineer
 
-👷 I’m currently a developer at [Haksec Pty Ltd.](http://haksec.io/)
-
-🌱 I’m currently learning **GO.**
-
-💻 I’m currently developing web apps on **PHP & Laravel.**
-
-🔭 I’m interested in **Linux, Cybersecurity, and Networking.**
-
-📫 How to reach me **saboormerchant6@gmail.com** 
-<br><br>
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-</a> 
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
-</a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-</a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-</a> 
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-</a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
-<br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=merchant6&show_icons=true&locale=en&theme=gotham&count_private=true" alt="merchant6" /></p>
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://dev.to/saboormerchant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="saboormerchant" height="30" width="40" /></a>
-<a href="https://twitter.com/merchant336" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="merchant336" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdus-saboor8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdus-saboor8" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19940996" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19940996" height="30" width="40" /></a>
-</p>
+PHP • Laravel • Symfony • MySQL • Redis • Docker • Linux • REST APIs
 
 </div>
+
+---
+
+## About Me
+
+I’m a backend-focused full-stack engineer with experience building production web applications, REST APIs, database-driven systems, queue-based workflows, and secure backend services.
+
+My core stack is **PHP, Laravel, Symfony, MySQL, Redis, Docker, Linux, NGINX, and JavaScript/React**. I’m especially interested in backend architecture, API design, database performance, asynchronous systems, and developer tooling.
+
+I enjoy working on systems where correctness, maintainability, and reliability matter.
+
+---
+
+## Current Focus
+
+- Building production-grade backend systems with **PHP/Laravel**
+- Working with **APIs, queues, Redis, MySQL, Docker, and Linux**
+- Exploring lower-level backend concepts through **OpenSwoole**
+- Building **OpenKV**, a Redis-inspired key-value store in PHP/OpenSwoole
+- Improving my understanding of distributed systems, networking, and infrastructure design
+
+---
+
+## Featured Projects
+
+### OpenKV
+A Redis-inspired key-value database built with PHP and OpenSwoole.
+
+Focus areas:
+- TCP server lifecycle
+- Event-driven I/O
+- Shared-memory storage
+- Command parsing
+- TTL expiration
+- Runtime metrics
+- Integration testing over real sockets
+
+Repo: [github.com/Merchant6/openKV](https://github.com/Merchant6/openKV)
+
+---
+
+### CompanyLens
+A Laravel-based public-source company discovery tool.
+
+It searches public sources, extracts company/contact signals, generates evidence links, and applies confidence scoring.
+
+Repo: [github.com/Merchant6/compnay_lens](https://github.com/Merchant6/compnay_lens)
+
+---
+
+### PHP ORM
+A lightweight PHP object-relational mapper inspired by Laravel Eloquent.
+
+Focus areas:
+- Fluent query building
+- Dynamic SQL generation
+- Model lifecycle hooks
+- CRUD operations
+- Query composition
+
+---
+
+## Technical Skills
+
+**Backend:** PHP, Laravel, Symfony, REST APIs, MVC, Service Layer Architecture  
+**Database:** MySQL, MariaDB, SQLite, Redis  
+**Frontend:** JavaScript, React.js, Vue.js, HTML, CSS, Tailwind CSS  
+**Infrastructure:** Linux, Docker, NGINX, Supervisor, AWS, Laravel Forge  
+**Tools:** Git, GitHub, Composer, npm, Postman, PHPUnit, Pest  
+**Interests:** Cybersecurity, networking, async PHP, distributed systems, developer tooling
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=merchant6&show_icons=true&locale=en&theme=gotham&count_private=true)
+
+</div>
+
+---
+
+## Links
+
+- Portfolio: [merchant6.github.io/portfolio](https://merchant6.github.io/portfolio/)
+- LinkedIn: [linkedin.com/in/abdus-saboor8](https://linkedin.com/in/abdus-saboor8)
+- GitHub: [github.com/merchant6](https://github.com/merchant6)
+- Email: [saboormerchant6@gmail.com](mailto:saboormerchant6@gmail.com)
