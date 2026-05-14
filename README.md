@@ -30,45 +30,6 @@ I enjoy working on systems where correctness, maintainability, and reliability m
 
 ---
 
-## Featured Projects
-
-### OpenKV
-A Redis-inspired key-value database built with PHP and OpenSwoole.
-
-Focus areas:
-- TCP server lifecycle
-- Event-driven I/O
-- Shared-memory storage
-- Command parsing
-- TTL expiration
-- Runtime metrics
-- Integration testing over real sockets
-
-Repo: [github.com/Merchant6/openKV](https://github.com/Merchant6/openKV)
-
----
-
-### CompanyLens
-A Laravel-based public-source company discovery tool.
-
-It searches public sources, extracts company/contact signals, generates evidence links, and applies confidence scoring.
-
-Repo: [github.com/Merchant6/compnay_lens](https://github.com/Merchant6/compnay_lens)
-
----
-
-### PHP ORM
-A lightweight PHP object-relational mapper inspired by Laravel Eloquent.
-
-Focus areas:
-- Fluent query building
-- Dynamic SQL generation
-- Model lifecycle hooks
-- CRUD operations
-- Query composition
-
----
-
 ## Technical Skills
 
 **Backend:** PHP, Laravel, Symfony, REST APIs, MVC, Service Layer Architecture  
